@@ -13,9 +13,13 @@ La problématique résolue est la complexité et la disparité dans la récupér
 
 
 # Approche adoptée
-Via l’interface web, l’utilisateur rentrera les infos : durée, couverture géographique et données recherchées (pour chaque donnée, un descriptif sera disponible).
-En retour l’application web montrera un rendu 3D de la data sélectionnée et proposera le téléchargement du fichier généré au formatJSON.
-Ainsi l’application propose la data juste nécessaire pour une utilisation ultérieure et ainsi minimiser la quantité de donnée à manipuler, tout en simplifiant le processus de récupération de données
+Dans une application web, l’utilisateur rentre les infos : période, couverture géographique et données recherchées
+
+Pour chaque donnée, un descriptif sera disponible.
+
+En retour l’application web montre un rendu 3D des données sélectionnées et propose le téléchargement du fichier généré aux formats interopérables JSON et CSV.
+
+L’application propose ainsi la donnée juste nécessaire pour une utilisation ultérieure et ainsi minimiser la quantité de donnée à manipuler, tout en simplifiant le processus de récupération de données
 
 
 # Usagers pressentis et bénéfices
