@@ -33,16 +33,20 @@ Les acteurs non-spécialistes de la météo et des formats associés, recherchan
 * Grand public ( curieux voulant visualiser en 3D les données météorologiques ),
 * Scientifiques ne souhaitant pas télécharger l’ensemble complet des données d’un modèle mais uniquement un ensemble de sous-paramètres.
 
-Tous ces usagers ont rarement besoin de tous les paramètres sur les périodes complètes disponibles. Par exemple, les agents du service public vont s'intéresser aux températures maximale sur une semaine sur une zone donnée. 
+Tous ces usagers ont rarement besoin de tous les paramètres sur les périodes complètes disponibles. 
+
+Par exemple, un agenta du service public s'intéresse aux températures minimales entre le 20 décembre 2022 et le 10 janvier 2023 entre Boulogne-Billancourt (92100) et Paris (75). 
 
 Par exemple en prenant les données des stations Météo France, si la zone étudiée est comprise sur deux départements et sur deux années différentes, il devrait télécharger : 
-- QUOT_departement_78_periode_1950-2022_RR-T-Vent.csv.gz
-- QUOT_departement_78_periode_2023-2024_RR-T-Vent.csv.gz
+- QUOT_departement_92_periode_1950-2022_RR-T-Vent.csv.gz
+- QUOT_departement_92_periode_2023-2024_RR-T-Vent.csv.gz
 - QUOT_departement_75_periode_1950-2022_RR-T-Vent.csv.gz
 - QUOT_departement_75_periode_2023-2024_RR-T-Vent.csv.gz
 
-En plus de télécharger des données inutiles (les paramètres non-utilisés comme le vent, et les stations hors de la zone), cela ajoute des étapes de préparation fastidieuses.
-
+Des étapes de préparation fastidieuses seront à faire pour trier les données téléchargées inutilement : 
+- les paramètres non-utilisés : les précipitations et le vent
+- les stations hors de la zone
+- les données hors de la période (99,9995% des données) 
 
 # Membres de l’équipe et leurs compétences
 - Sébastien Bourgeois - Data engineer
