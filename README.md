@@ -11,7 +11,9 @@ Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 * Thomas Sigward (Project management / Développeur front-end)
 
 # Livrables
-* [Jour 1](./Rendu-Jour-1.md)
+* [Intermédiaure - Jour 1](./Rendu-Jour-1.md)
+* [Rendu](./Rendu.md)
+
 
 # Liens utiles
 * https://guides.data.gouv.fr/guide-du-participant-au-hackathon-meteo
