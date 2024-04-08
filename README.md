@@ -11,7 +11,7 @@ Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 * Thomas Sigward (Project management / Développeur front-end)
 
 # Livrables
-* [Intermédiaure - Jour 1](./Rendu-Jour-1.md)
+* [Intermédiaire - Jour 1](./Rendu-Jour-1.md)
 * [Rendu](./Rendu.md)
 
 
