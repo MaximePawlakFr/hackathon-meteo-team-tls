@@ -37,11 +37,10 @@ Par exemple : récupèrer la température minimale en celsisu pour le départeme
 “SELECT TX/10 as TX_CELSIUS FROM ... "
 
 Donne directement la réponse sous le format JSON : 
-\```{
+"{
   request: la requête,
   file : l'url du fichier parquet
-}
-\```
+}"
 
 ```
 
