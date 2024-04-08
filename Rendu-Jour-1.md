@@ -22,6 +22,9 @@ En retour l’application web montre un rendu 3D des données sélectionnées et
 L’application propose ainsi la donnée juste nécessaire pour une utilisation ultérieure et ainsi minimiser la quantité de donnée à manipuler, tout en simplifiant le processus de récupération de données
 
 
+Technologies : gdal, pandas, duckdb, react, cesium.js
+  
+
 # Usagers pressentis et bénéfices
 Les acteurs non-spécialistes de la météo et des formats associés, recherchant rapidement et facilement de la donnée sur une zone pendant une période donnée :
 * Souscripteurs et Courtiers en Assurance Paramétrique
