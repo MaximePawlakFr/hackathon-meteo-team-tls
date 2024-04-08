@@ -42,6 +42,7 @@ Donne directement la réponse sous le format JSON :
   period: la période correspondantes,
   file_url : l'url du fichier parquet
 }"
+Suivi de l'url du fichier.
 
 ```
 
