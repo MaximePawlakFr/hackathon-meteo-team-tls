@@ -38,8 +38,9 @@ Par exemple : récupèrer la température minimale en celsisu pour le départeme
 
 Donne directement la réponse sous le format JSON : 
 "{
-  request: la requête,
-  file : l'url du fichier parquet
+  sql_request: la requête,
+  period: la période correspondantes,
+  file_url : l'url du fichier parquet
 }"
 
 ```
