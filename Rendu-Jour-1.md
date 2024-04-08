@@ -17,7 +17,7 @@ Dans une application web, l’utilisateur rentre les infos : période, couvertur
 
 Pour chaque donnée, un descriptif sera disponible.
 
-Un champ de texte lui permet aussi de rentrer sa requête en langage naturel, sans avoir à passer par le formulaire : "récupère les données de température minimale de Boulogne-Billancourt et de Paris entre le 20 décembre 2022 et le 10 janvier 2023".
+Un champ de texte lui permet aussi de rentrer sa requête en langage naturel, sans avoir à passer par le formulaire : "récupère les données de température minimale de AROME HD de Boulogne-Billancourt et de Paris entre le 20 décembre 2022 et le 10 janvier 2023".
 
 En retour l’application web montre un rendu 3D des données sélectionnées et propose le téléchargement du fichier généré aux formats interopérables JSON et CSV.
 
