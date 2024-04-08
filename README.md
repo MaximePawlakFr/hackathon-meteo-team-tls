@@ -5,13 +5,15 @@ Ce repo contient le travail de l'équipe Team TLS réalisé lors du [Hackathon m
 # Présentation
 Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 
-Membres: 
+# Membres 
 * Sébastien Bourgeois (Data engineer)
 * Maxime  Pawlak (Développeur)
 * Thomas Sigward (Project management / Développeur front-end)
 
+# Livrables
+* [Jour 1](./Rendu-Jour-1.md)
 
-Liens utiles :
+# Liens utiles
 * https://guides.data.gouv.fr/guide-du-participant-au-hackathon-meteo
 * https://gdal.org/drivers/vector/parquet.html
 * https://duckdb.org/
