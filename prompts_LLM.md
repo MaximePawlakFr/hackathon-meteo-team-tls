@@ -36,13 +36,12 @@ Par exemple : récupèrer la température minimale en celsisu pour le départeme
  Pour la température maximale, exprimée en celsius, cela est :
 “SELECT TX/10 as TX_CELSIUS FROM ... "
 
-Donne directement la réponse sous le format JSON : 
+Donne, sans explication, directement l'url du fichier, la requête SQL, puis la réponse sous le format JSON : 
 "{
   sql_request: la requête,
   period: la période correspondantes,
   file_url : l'url du fichier parquet
 }"
-Suivi de l'url du fichier.
 
 ```
 
