@@ -10,9 +10,16 @@ Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 * Maxime  Pawlak (Développeur)
 * Thomas Sigward (Project management / Développeur front-end)
 
-# Livrables
-* [Intermédiaire - Jour 1](./Rendu-Jour-1.md)
-* [Rendu](./Rendu.md)
+# Rendus
+Les rendus sont disponibles dans le dossier [rendus](./rendus)
+* [Intermédiaire - Jour 1](./rendus/Rendu-Jour-1.md)
+* [Rendu](./rendus/Rendu.md)
+
+# Applications
+Le projet est composée de plusieurs applications : 
+* [Application data](./app-data/) qui gère la transformation des données
+* [Application front](./app-front) qui est l'interface web
+* [Module LLM](./llm) qui est les éléments pour faire fonctionner le LLM dans l'application front
 
 
 # Liens utiles
