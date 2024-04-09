@@ -20,3 +20,6 @@ Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 * https://gdal.org/drivers/vector/parquet.html
 * https://duckdb.org/
 * https://cesium.com/
+
+# Pour lancer le frontend
+npm run dev
