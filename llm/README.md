@@ -4,9 +4,9 @@ Ce dossier regroupe les éléments au sujet des LLMs.
 
 Le fichier [prompts_LLM.md](prompts_LLM.md) contient les prompts permettant d'affiner le modèle.
 
-Nous avons testé à ce jour uniquement avec Chat-GPT4. 
+Nous avons testé à ce jour uniquement avec Chat-GPT4 par souci de rapidité.
 
-Dans une démarche plus orienté vers l'open-source, nous nous orienterons vers des modèles ouverts comme Llama 2 (Meta), Mistral 7B (Mistral AI) ou encore CroissantLLM. La liste complète peut être retrouvée sur [Hugging Face](https://huggingface.co/models?pipeline_tag=text-generation). 
+Dans une démarche plus orientée vers l'open-source, nous nous orienterons vers des modèles ouverts comme Llama 2 (Meta), Mistral 7B (Mistral AI) ou encore CroissantLLM. La liste complète peut être retrouvée sur [Hugging Face](https://huggingface.co/models?pipeline_tag=text-generation). 
 
 # Exemples
 
