@@ -6,6 +6,8 @@ Le fichier [prompts_LLM.md](prompts_LLM.md) contient les prompts permettant d'af
 
 Nous avons testé à ce jour uniquement avec Chat-GPT4. 
 
+Dans une démarche plus orienté vers l'open-source, nous nous orienterons vers des modèles ouverts comme Llama 2 (Meta), Mistral 7B (Mistral AI) ou encore CroissantLLM. La liste complète peut être retrouvée sur [Hugging Face](https://huggingface.co/models?pipeline_tag=text-generation). 
+
 # Exemples
 
 ## Requête 1
