@@ -16,8 +16,9 @@ Equipe (en distanciel) ACCÈS ET COMPREHENSION DES DONNEES
 
 # Rendus
 Les rendus sont disponibles dans le dossier [rendus](./rendus)
+* [Présentation](./rendus/2024-04- Hackathon Météo - Team TLS - Dalle Meteo.pdf)
+* [Projet data.gouv.fr](https://www.data.gouv.fr/fr/reuses/projet-la-dalle-meteo/)
 * [Intermédiaire - Jour 1](./rendus/Rendu-Jour-1.md)
-* [Rendu](./rendus/Rendu.md)
 
 # Applications
 Le projet est composée de plusieurs applications : 
